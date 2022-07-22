@@ -1,0 +1,12 @@
+			-------
+ClassName == com.booking.BookingTest.HotelSearchPage
+SuperclassName == class java.lang.Object
+PackageName == package com.booking.BookingTest
+Methods:::open
+Methods:::getStarted
+			-------
+ClassName == com.booking.BookingTest.ValidEmail
+SuperclassName == class java.lang.Object
+PackageName == package com.booking.BookingTest
+Methods:::open
+Methods:::getStarted
